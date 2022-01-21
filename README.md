@@ -1,5 +1,6 @@
 # GYANCRM
-TO BE DEVELOPED CODE REPOSITORY FOR THE GYAN CRM MENTORSHIP PLATFORM
+TO BE DEVELOPED CODE REPOSITORY FOR THE GYAN CRM MENTORSHIP PLATFORM.
+
 THE MENTORSHIP FRAMEWORK INCLUDES A GYAN CRM MAP COMPONENT THAT
 CAN BE DEVELOPED AS A SMART PHONE MOBILE APPLICATION
 
@@ -13,4 +14,4 @@ language processing, Text-analytics & clustering, visualizing of clusters,
 request or remedy description similarity 
 
 The Gyan CRM component will enable a mentee or student to lookup the contact details
-and services of registered mentors/tutoes/mentorship systems.
+and services of registered mentors/tutors/mentorship systems.
